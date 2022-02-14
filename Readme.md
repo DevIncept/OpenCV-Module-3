@@ -2,7 +2,7 @@
 
 > 1 Competetion, 2 Projects 
 
-1. [Part1: HAAR cascades](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Om_OpenCv_HaarCascasdeClassifier.md)
+1. [Part1: HAAR cascades](Object Detection using Haar Cascades.md)
 2. [Part2: Using Haarcascades for object detection](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Rakshith_OpenCV_ObjectDetection.ipynb)
 3. [Part3: Project-Face emotion detection](https://github.com/Learn-Write-Repeat/cv/tree/main/Face%20Expression%20Recognition/Kshitij)
 4. **Part4: Working on custom data:** Click multiple photos of yourself or any two person in different folders.
